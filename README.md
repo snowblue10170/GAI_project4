@@ -5,7 +5,9 @@
 
 對於隨機產生的雜訊圖片可自動生成為蝴蝶圖片
 ## 此為DIP優化後的結果圖
-![image](https://github.com/snowblue10170/GAI_project4/tree/main/images/DIP_image)
+![image](images/DIP_image/0049.png)
 
 ## 此為原始DDPM產生的結果圖
-![image]()
+![image](images/standalone/0049.png)
+
+可以看到在同一epoch數量下DIP優化後有較好的圖片品質
